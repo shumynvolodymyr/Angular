@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['app.component.css']
 })
 export class AppComponent {
-  privet = ' START';
+  users_list = ' USERS';
+  posts_list = ' POSTS';
 }
